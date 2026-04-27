@@ -3,12 +3,56 @@
     <title>Eric&#x27;s Blog</title>
     <link href="https://ericzh2024.github.io/publii/feed.xml" rel="self" />
     <link href="https://ericzh2024.github.io/publii" />
-    <updated>2026-04-27T11:50:37+08:00</updated>
+    <updated>2026-04-27T16:24:33+08:00</updated>
     <author>
         <name>Eric Zhang</name>
     </author>
     <id>https://ericzh2024.github.io/publii</id>
 
+    <entry>
+        <title>Eric’s Calculator Pro: A Sidebar Tool for Vivaldi</title>
+        <author>
+            <name>Eric Zhang</name>
+        </author>
+        <link href="https://ericzh2024.github.io/publii/erics-calculator-pro-a-sidebar-tool-for-vivaldi.html"/>
+        <id>https://ericzh2024.github.io/publii/erics-calculator-pro-a-sidebar-tool-for-vivaldi.html</id>
+        <media:content url="https://ericzh2024.github.io/publii/media/posts/2/erics-calculator.png" medium="image" />
+            <category term="Web App"/>
+            <category term="Vivaldi Browser"/>
+            <category term="Sidebar project"/>
+            <category term="AI tools"/>
+
+        <updated>2026-04-27T16:04:22+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://ericzh2024.github.io/publii/media/posts/2/erics-calculator.png" alt="eric&#x27;s Calculator Pro" />
+                    This is the first software tool I have ever created with the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ericzh2024.github.io/publii/media/posts/2/erics-calculator.png" class="type:primaryImage" alt="eric&#x27;s Calculator Pro" /></p>
+                <p>This is the first software tool I have ever created with the help of AI, and it is also my first AI-assisted project.</p>
+<figure class="post__image"><img loading="lazy"  src="https://ericzh2024.github.io/publii/media/posts/2/erics-calculator-2.png" alt="" width="1536" height="1024" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://ericzh2024.github.io/publii/media/posts/2/responsive/erics-calculator-2-xs.png 320w ,https://ericzh2024.github.io/publii/media/posts/2/responsive/erics-calculator-2-sm.png 480w ,https://ericzh2024.github.io/publii/media/posts/2/responsive/erics-calculator-2-md.png 768w ,https://ericzh2024.github.io/publii/media/posts/2/responsive/erics-calculator-2-xl.png 1024w"></figure>
+<p>It may not be a groundbreaking product, but it means a lot to me. With the help of AI, ordinary people like me, even without coding knowledge, can now build tools that used to feel impossible. AI gives everyone the opportunity to turn their own ideas into practical products that fit their personal needs.</p>
+<p>I use the Vivaldi browser frequently in my daily work and learning. One of its most useful features is the sidebar, which allows users to add custom websites and choose whether to display them in a mobile or desktop layout. In my work, I often need to use a calculator. However, searching for and opening the calculator app from the App Center every time feels inefficient. A normal desktop calculator window is also difficult to keep fixed in one place, and it can easily be covered by other application windows.</p>
+<p>So I shared my idea with the OpenAI App and asked it to generate an executable HTML page for me. I tested it by dragging the HTML file into the browser and opening it directly. After many rounds of adjustments and improvements, I finally arrived at the calculator version I wanted. Once opened in the browser, it can be added to the Vivaldi sidebar by clicking the “+” button.</p>
+<p>The main features of this sidebar calculator include:</p>
+<ol>
+<li>An Apple-inspired visual style with a clean interface, pleasant colors, and a simple layout.</li>
+<li>Complete basic calculator functions for everyday work and study needs.</li>
+<li>A display area at the top that remembers the previous calculation.</li>
+<li>A history section at the bottom that shows up to 5 recent input records and supports one-click clearing.</li>
+</ol>
+<figure class="post__image"><img loading="lazy"  style="font-size: inherit;" src="https://ericzh2024.github.io/publii/media/posts/2/erics-calculator.jpg" alt="" width="3694" height="2155" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://ericzh2024.github.io/publii/media/posts/2/responsive/erics-calculator-xs.jpg 320w ,https://ericzh2024.github.io/publii/media/posts/2/responsive/erics-calculator-sm.jpg 480w ,https://ericzh2024.github.io/publii/media/posts/2/responsive/erics-calculator-md.jpg 768w ,https://ericzh2024.github.io/publii/media/posts/2/responsive/erics-calculator-xl.jpg 1024w"></figure>
+<p>If you also like using tools inside your browser sidebar and want a lightweight, beautiful, and easy-to-access calculator, you may want to give this tool a try.</p>
+<p><a href="https://ericzh2024.github.io/publii/eric's calculator.zip">Download Eric's Calculator Pro</a></p>
+<p>This is a lightweight HTML calculator for browser sidebar use.  <br>Download the ZIP file, unzip it, and open the HTML file in your browser.</p>
+<figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>
+<p><!-- notionvc: e544acb7-f6ba-4b94-8bcc-cb51fa6a203d --></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>My First Publii Post</title>
         <author>
