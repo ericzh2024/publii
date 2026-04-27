@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ericzh2024.github.io/publii/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zhangeric.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://ericzh2024.github.io/publii/</loc>
+<loc>https://zhangeric.com/</loc>
 </url>
 <url>
-<loc>https://ericzh2024.github.io/publii/erics-calculator-pro-a-sidebar-tool-for-vivaldi.html</loc>
-<lastmod>2026-04-27T16:24:33+08:00</lastmod>
+<loc>https://zhangeric.com/browser-sidebar-tool-24h-news-flash.html</loc>
+<lastmod>2026-04-27T20:56:37+08:00</lastmod>
 <image:image>
-<image:loc>https://ericzh2024.github.io/publii/media/posts/2/erics-calculator.png</image:loc>
-<image:title><![CDATA[eric's Calculator Pro]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://ericzh2024.github.io/publii/media/posts/2/erics-calculator-2.png</image:loc>
+<image:loc>https://zhangeric.com/media/posts/4/cover-24h-news-flash.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://ericzh2024.github.io/publii/media/posts/2/erics-calculator.jpg</image:loc>
+<image:loc>https://zhangeric.com/media/posts/4/content-sidebar-view.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://zhangeric.com/media/posts/4/content-settings-view.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://zhangeric.com/media/posts/4/24H-News-Brief.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://ericzh2024.github.io/publii/my-first-publii-post.html</loc>
+<loc>https://zhangeric.com/erics-calculator-pro-a-sidebar-tool-for-vivaldi.html</loc>
+<lastmod>2026-04-27T16:37:11+08:00</lastmod>
+<image:image>
+<image:loc>https://zhangeric.com/media/posts/2/erics-calculator-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://zhangeric.com/media/posts/2/erics-calculator.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://zhangeric.com/erics-calculator-pro-final.html.zip</loc>
+</url>
+<url>
+<loc>https://zhangeric.com/erics-stocks-pro-a-sidebar-tool-for-tracking-stocks-and-crypto.html</loc>
+<lastmod>2026-04-27T20:27:03+08:00</lastmod>
+</url>
+<url>
+<loc>https://zhangeric.com/my-first-publii-post.html</loc>
 <lastmod>2026-04-27T11:50:37+08:00</lastmod>
 </url>
 </urlset>
