@@ -5,6 +5,7 @@
     "home_page_url": "https://ericzh2024.github.io/publii",
     "feed_url": "https://ericzh2024.github.io/publii/feed.json",
     "user_comment": "",
+    "icon": "https://ericzh2024.github.io/publii/media/website/Eric_AVATAR01.webp",
     "author": {
         "name": "Eric Zhang"
     },
@@ -13,7 +14,7 @@
             "id": "https://ericzh2024.github.io/publii/my-first-publii-post.html",
             "url": "https://ericzh2024.github.io/publii/my-first-publii-post.html",
             "title": "My First Publii Post",
-            "summary": "This is my first post created with Publii. I want to use this website to share AI projects, photography, learning notes, and personal thinking.",
+            "summary": "This is my first post created with Publii. I want to use&hellip;",
             "content_html": "<p class=\"p1\">This is my first post created with Publii.</p>\n<p class=\"p1\">I want to use this website to share AI projects, photography, learning notes, and personal thinking.</p>",
             "author": {
                 "name": "Eric Zhang"
