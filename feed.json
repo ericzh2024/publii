@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Eric&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://ericzh2024.github.io/publii",
+    "feed_url": "https://ericzh2024.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Eric Zhang"
+    },
+    "items": [
+        {
+            "id": "https://ericzh2024.github.io/publii/my-first-publii-post.html",
+            "url": "https://ericzh2024.github.io/publii/my-first-publii-post.html",
+            "title": "My First Publii Post",
+            "summary": "This is my first post created with Publii. I want to use this website to share AI projects, photography, learning notes, and personal thinking.",
+            "content_html": "<p class=\"p1\">This is my first post created with Publii.</p>\n<p class=\"p1\">I want to use this website to share AI projects, photography, learning notes, and personal thinking.</p>",
+            "author": {
+                "name": "Eric Zhang"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-27T11:50:37+08:00",
+            "date_modified": "2026-04-27T11:50:37+08:00"
+        }
+    ]
+}

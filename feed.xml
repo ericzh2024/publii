@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Eric&#x27;s Blog</title>
+    <link href="https://ericzh2024.github.io/publii/feed.xml" rel="self" />
+    <link href="https://ericzh2024.github.io/publii" />
+    <updated>2026-04-27T11:50:37+08:00</updated>
+    <author>
+        <name>Eric Zhang</name>
+    </author>
+    <id>https://ericzh2024.github.io/publii</id>
+
+    <entry>
+        <title>My First Publii Post</title>
+        <author>
+            <name>Eric Zhang</name>
+        </author>
+        <link href="https://ericzh2024.github.io/publii/my-first-publii-post.html"/>
+        <id>https://ericzh2024.github.io/publii/my-first-publii-post.html</id>
+
+        <updated>2026-04-27T11:50:37+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is my first post created with Publii. I want to use this website to share AI projects, photography, learning notes, and personal thinking.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1">This is my first post created with Publii.</p>
+<p class="p1">I want to use this website to share AI projects, photography, learning notes, and personal thinking.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
