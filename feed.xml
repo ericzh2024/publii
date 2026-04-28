@@ -3,7 +3,7 @@
     <title>Eric&#x27;s Blog</title>
     <link href="https://zhangeric.com/feed.xml" rel="self" />
     <link href="https://zhangeric.com" />
-    <updated>2026-04-27T21:06:21+08:00</updated>
+    <updated>2026-04-28T13:21:23+08:00</updated>
     <author>
         <name>Eric Zhang</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://zhangeric.com/browser-sidebar-tool-24h-news-flash.html"/>
         <id>https://zhangeric.com/browser-sidebar-tool-24h-news-flash.html</id>
+        <media:content url="https://zhangeric.com/media/posts/4/cover-24h-news-flash-2.webp" medium="image" />
             <category term="Web App"/>
             <category term="Vivaldi Browser"/>
             <category term="Sidebar project"/>
@@ -24,11 +25,13 @@
         <updated>2026-04-27T20:51:36+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://zhangeric.com/media/posts/4/cover-24h-news-flash-2.webp" alt="" />
                     This is the third small product I built with the help of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://zhangeric.com/media/posts/4/cover-24h-news-flash-2.webp" class="type:primaryImage" alt="" /></p>
                 <p>This is the third small product I built with the help of OpenAI, and it has quickly become one of my favorite tools. I use it almost every day: **24H News Flash**.<br><br>Most of my daily work happens inside the Vivaldi browser. One of Vivaldi’s most useful features is the ability to add any website to the browser sidebar. This makes it possible to keep a compact information panel open while I continue working in the main browser window.<br><br>In practice, however, adding regular news websites to the sidebar does not usually create a good experience. Many news sites are not designed for a narrow sidebar layout. They often include too many ads, large navigation menus, unrelated recommendations, slow-loading scripts, and cluttered page sections. Some websites do not refresh content reliably, and some even push users toward their mobile apps.<br><br>What I wanted was much simpler: a clean, lightweight, always-available news panel that could stay in my browser sidebar all day.</p>
 <figure class="post__image"><img loading="lazy"  src="https://zhangeric.com/media/posts/4/cover-24h-news-flash.webp" alt="" width="1600" height="900" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://zhangeric.com/media/posts/4/responsive/cover-24h-news-flash-xs.webp 320w ,https://zhangeric.com/media/posts/4/responsive/cover-24h-news-flash-sm.webp 480w ,https://zhangeric.com/media/posts/4/responsive/cover-24h-news-flash-md.webp 768w ,https://zhangeric.com/media/posts/4/responsive/cover-24h-news-flash-xl.webp 1024w"></figure><br><br>That is why I built **24H News Flash**.<br><br>The idea is straightforward: show useful information in the smallest possible space. At the top, the panel displays live cryptocurrency prices and 24-hour percentage changes. Below that, it collects headlines from RSS feeds and presents them in a clean card-style interface. The design follows an Apple-inspired visual style, with soft cards, clear typography, and minimal distractions.</p>
 <figure class="post__image"><img loading="lazy"  src="https://zhangeric.com/media/posts/4/content-sidebar-view.webp" alt="" width="1600" height="900" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://zhangeric.com/media/posts/4/responsive/content-sidebar-view-xs.webp 320w ,https://zhangeric.com/media/posts/4/responsive/content-sidebar-view-sm.webp 480w ,https://zhangeric.com/media/posts/4/responsive/content-sidebar-view-md.webp 768w ,https://zhangeric.com/media/posts/4/responsive/content-sidebar-view-xl.webp 1024w"></figure><br><br>The tool supports custom RSS feed management, so you can add your preferred news sources and remove the ones you do not need. It also includes light mode, dark mode, and an automatic theme option, making it comfortable to use throughout the day. You can customize the panel title, adjust the news headline font size, choose how many items to show, and manage the crypto assets displayed at the top.<br><br>To reduce manual work, the panel refreshes news and market data automatically every 10 minutes. It also includes a manual refresh button for real-time updates whenever you need them. For people who spend long hours working in a browser and want to stay aware of both news and market changes, this small tool is extremely practical.<br><br>## Key Features<br><br>1. **Apple-inspired UI** — clean, elegant, and optimized for a narrow browser sidebar.  <br>2. **Custom RSS feeds** — add, remove, and manage your preferred news sources.  <br>3. **Adaptive theme modes** — light, dark, and automatic modes for all-day use.  <br>4. **Live crypto prices** — display selected cryptocurrency prices and 24-hour changes at the top.  <br>5. **Personalized settings** — customize the panel title, headline font size, item count, and top crypto assets.  <br>6. **Auto and manual refresh** — refreshes automatically every 10 minutes, with instant manual refresh support.  <br>7. **Lightweight deployment** — the entire tool can be deployed as a single JavaScript file on Cloudflare Workers.</p>
@@ -45,6 +48,7 @@
         </author>
         <link href="https://zhangeric.com/erics-stocks-pro-a-sidebar-tool-for-tracking-stocks-and-crypto.html"/>
         <id>https://zhangeric.com/erics-stocks-pro-a-sidebar-tool-for-tracking-stocks-and-crypto.html</id>
+        <media:content url="https://zhangeric.com/media/posts/3/24h-news-brief-pic-2.png" medium="image" />
             <category term="Web App"/>
             <category term="Vivaldi Browser"/>
             <category term="Sidebar project"/>
@@ -53,11 +57,13 @@
         <updated>2026-04-27T20:27:03+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://zhangeric.com/media/posts/3/24h-news-brief-pic-2.png" alt="" />
                     Eric’s Stocks Pro is the second tool I created with the help&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://zhangeric.com/media/posts/3/24h-news-brief-pic-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Eric’s Stocks Pro is the second tool I created with the help of OpenAI, and it is also my second AI-assisted project.</p>
 <p>In my daily work and learning, I often need to check real-time prices for stocks and cryptocurrencies. In the past, I mainly used Google Finance and added it to the sidebar of the Vivaldi browser. Google Finance is useful for tracking market data, but the interface contains a lot of extra information beyond the prices I care about. For a small browser sidebar, the page can feel crowded and messy.</p>
 <p>When I added multiple stocks and crypto assets, I often had to scroll up and down to see all the items on my watchlist. This was not convenient for a narrow sidebar layout. I also tried adding several other financial websites to the Vivaldi sidebar, but most of them were not designed for this kind of compact view, so the overall experience was not ideal.</p>
@@ -95,6 +101,7 @@
         </author>
         <link href="https://zhangeric.com/erics-calculator-pro-a-sidebar-tool-for-vivaldi.html"/>
         <id>https://zhangeric.com/erics-calculator-pro-a-sidebar-tool-for-vivaldi.html</id>
+        <media:content url="https://zhangeric.com/media/posts/2/erics-calculator.png" medium="image" />
             <category term="Web App"/>
             <category term="Vivaldi Browser"/>
             <category term="Sidebar project"/>
@@ -103,11 +110,13 @@
         <updated>2026-04-27T16:04:22+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://zhangeric.com/media/posts/2/erics-calculator.png" alt="eric&#x27;s Calculator Pro" />
                     This is the first software tool I have ever created with the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://zhangeric.com/media/posts/2/erics-calculator.png" class="type:primaryImage" alt="eric&#x27;s Calculator Pro" /></p>
                 <p>This is the first software tool I have ever created with the help of AI, and it is also my first AI-assisted project.</p>
 <figure class="post__image"><img loading="lazy"  src="https://zhangeric.com/media/posts/2/erics-calculator-2.png" alt="" width="1536" height="1024" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://zhangeric.com/media/posts/2/responsive/erics-calculator-2-xs.png 320w ,https://zhangeric.com/media/posts/2/responsive/erics-calculator-2-sm.png 480w ,https://zhangeric.com/media/posts/2/responsive/erics-calculator-2-md.png 768w ,https://zhangeric.com/media/posts/2/responsive/erics-calculator-2-xl.png 1024w"></figure>
 <p>It may not be a groundbreaking product, but it means a lot to me. With the help of AI, ordinary people like me, even without coding knowledge, can now build tools that used to feel impossible. AI gives everyone the opportunity to turn their own ideas into practical products that fit their personal needs.</p>
